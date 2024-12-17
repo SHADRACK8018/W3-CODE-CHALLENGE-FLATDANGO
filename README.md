@@ -1,6 +1,6 @@
 # FLATDANGO
 Flatdango is a mini web application that allows users to view and purchase movie tickets. This project demonstrates the use of HTML, CSS, and JavaScript, with data being fetched from a local server running JSON DB server.
-Live link : 
+Live link : https://shadrack8018.github.io/W3-CODE-CHALLENGE-FLATDANGO/
 ## Features
 View details of the first movie including poster, title, runtime, showtime, and available tickets upon page load.
 View all available movies.
